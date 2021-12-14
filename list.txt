@@ -40,3 +40,6 @@
 *://opensourcelibs.com/*
 *://findbestopensource.com/*
 *://githubhelp.com/*
+*://*.code-error.com/*
+*://*.newbedev.com/*
+*://*.geek-qa.imtqy.com/*
