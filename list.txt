@@ -6,7 +6,6 @@
 *://*.kotaeta.com/*
 *://*.mytory.net/*
 *://*.codetd.com/*
-*://*.codetd.com/*
 *://*.bunnyinside.com/*
 *://*.forsenergy.com/*
 *://*.living-sun.com/*
@@ -24,7 +23,6 @@
 *://*.fixes.pub/*
 *://*.javaer101.com/*
 *://*.asklobster.com/*
-*://*.living-sun.com/*
 *://*.gitmemory.com/*
 *://programmerstart.com/*
 *://*.programmersought.com/*
