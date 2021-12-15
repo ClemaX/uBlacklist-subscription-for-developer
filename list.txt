@@ -34,3 +34,11 @@
 *://*.awesomeopensource.com/*
 *://*.it-mure.jp.net/*
 *://try2explore.com/*
+*://githubja.com/*
+*://giters.com/*
+*://githubmemory.com/*
+*://*.wenyanet.com/*
+*://issueexplorer.com/*
+*://opensourcelibs.com/*
+*://findbestopensource.com/*
+*://githubhelp.com/*
