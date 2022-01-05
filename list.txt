@@ -43,3 +43,4 @@
 *://*.code-error.com/*
 *://*.newbedev.com/*
 *://*.geek-qa.imtqy.com/*
+*://*.gateway.web.tr/*
